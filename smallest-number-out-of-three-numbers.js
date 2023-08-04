@@ -1,3 +1,5 @@
+// Write a code that will find the smallest number out of three numbers.
+
 function findSmallestNumber(a, b, c) {
     if (a <= b && a <= c) {
       return a;
