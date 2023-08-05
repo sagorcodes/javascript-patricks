@@ -1,4 +1,4 @@
-// An array contains many numbers. Write a program to find the second largest number from those numbers.
+// An array contains many numbers. Write a program to find the second largest number from those numbers. 
 
 function findSecondLargest(numbersArray) {
     if (numbersArray.length < 2) {
